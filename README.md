@@ -5,3 +5,5 @@ This application lists the current number of cases reported accross the global
 Preview 
 * Total cases reported as of today
 * New cases reported since previous day
+* Details about confirmed cases across the global
+
